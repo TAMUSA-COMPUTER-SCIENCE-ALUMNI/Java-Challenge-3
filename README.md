@@ -26,6 +26,11 @@ This is a Java Object Oriented Programming challenge!
   10. A stand alone .jar that allows the program to be run
         * must be posted as a release under your main respository
 
+* Advanced topic ideas:
+  1. User authentication
+  2. Storing user information in a database
+  3. Persistent statistics using a database
+
 ## License
 MIT License
 
